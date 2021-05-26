@@ -1,8 +1,9 @@
 # NetAlive
 Einfach laufen lassen, die datei zeigt an, wann das Internet mal nicht erreichbar war!
 
-# Credits
-Die Pings werden durch das Node-Modul "node-ping" durchgeführt.
+# Installation
+1. Mit einer Kommandozeile in den Ordner navigieren.
+2. "npm i" eingeben
 
 # Starten
 Zum Starten einfach das Repo herunterladen und 
@@ -11,3 +12,6 @@ Zum Starten einfach das Repo herunterladen und
 
 # Ergebnisse
 Ergebnisse findest du in der Datei "log.txt"
+
+# Anforderungen
+- Du MUSST nodejs installiert haben
