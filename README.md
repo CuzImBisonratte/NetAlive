@@ -8,7 +8,7 @@ Einfach laufen lassen, die datei zeigt an, wann das Internet mal nicht erreichba
 # Starten
 Zum Starten einfach das Repo herunterladen und 
 - unter linux die Datei "run.sh" starten.
-- unter windows die Datei "run.bat" starten (Kommt bald).
+- unter windows die Datei "run.bat" starten.
 
 # Ergebnisse
 Ergebnisse findest du in der Datei "log.txt"
