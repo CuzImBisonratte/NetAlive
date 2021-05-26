@@ -1,0 +1,14 @@
+{
+    "name": "inetdowntime",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "CuzImBisonratte",
+    "license": "ISC",
+    "dependencies": {
+        "ping": "^0.4.1"
+    }
+}
