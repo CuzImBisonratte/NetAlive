@@ -1,4 +1,4 @@
 :start
 node app.js
-timeout 30
+timeout 26
 goto start
