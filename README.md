@@ -11,7 +11,11 @@ Zum Starten einfach das Repo herunterladen und
 - unter windows die Datei "run.bat" starten.
 
 # Ergebnisse
-Ergebnisse findest du in der Datei "log.txt"
+Ergebnisse findest du in der Datei "log.csv"  
+Diese Datei kannst du folgendermaßen öffnen:  
+-Mit jedem Texteditor  
+-Mit OpenOffice/LibreOffice  
+-Excel  
 
 # Anforderungen
 - Du MUSST nodejs installiert haben
