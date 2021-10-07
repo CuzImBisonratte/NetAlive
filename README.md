@@ -19,3 +19,6 @@ Diese Datei kannst du folgendermaßen öffnen:
 
 # Anforderungen
 - Du MUSST nodejs installiert haben
+
+# Archiviert
+Da diese App nicht mehr weiterentwickelt wird, ist dieses Repository archiviert.
